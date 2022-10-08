@@ -130,5 +130,12 @@ a{
 .text-bottom-button{
     text-align: center;
     font-family: "Lexend";
+    margin-bottom: 36px;
+}
+.logos {
+    display: flex;
+}
+li{
+    list-style-type: none;
 }
 }
