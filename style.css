@@ -236,17 +236,20 @@ li{
     padding-bottom: 108px;
 }
 .text-one-comment-top{
+    display: flex;
+    justify-content: center;
     margin-top: 90px;
     width: 335px;
     height: 81px;
     font-family: 'Lexend';
     font-weight: 400;
     color: #111928;
-    font-size: 33px;
+    font-size: 30px;
     margin-bottom: 20px;
+    align-items: center;
 }
 .text-two-comment-two{
-    width: 354px;
+    width: 340px;
     height: 120px;
     font-family: 'Inter';
     font-weight: 400;
