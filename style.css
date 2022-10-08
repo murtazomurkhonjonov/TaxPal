@@ -134,8 +134,15 @@ a{
 }
 .logos {
     display: flex;
+    justify-content: center;
 }
 li{
     list-style-type: none;
+}
+.logo-link-one{
+    margin-right: 20px;
+}
+.links-logo-list{
+   margin-bottom: 20px;
 }
 }
