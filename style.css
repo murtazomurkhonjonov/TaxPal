@@ -144,12 +144,27 @@ li{
     margin-right: 20px;
 }
 .links-logo-list{
-   margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 .text-bottom-logos{
-   width: 349px ;
+    width: 349px ;
 }
 .lgs{
     background-color: #216afc;
+}
+.header-text{
+    padding-top: 90px;
+    color: #fff;
+    font-family: "Lexend";
+    font-weight: 400;
+    font-size: 33px;
+    margin-bottom: 25px;
+}
+.text-logos{
+    color: #fff;
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
 }
 }
