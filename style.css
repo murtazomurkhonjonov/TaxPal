@@ -326,7 +326,6 @@ li{
     margin-bottom: 24px;
     box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px rgba(0, 0, 0, 0.04);
     border-radius: 10px;
-
     padding-top: 20px;}
 
 hr{
@@ -350,5 +349,77 @@ h1{
     line-height: 25px;
     letter-spacing: -0.01em;
     color: #9CA3AF;
+}
+.comments{
+    margin-bottom: 130px;
+}
+.subscripe{
+    background-color: #10172A;;
+    height: 1907px;
+}
+.subscripe-text{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 41px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+    padding-top: 86px;
+    margin-bottom: 26px;
+}
+.subscripe-paragraph{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+    opacity: 0.6;
+    padding-bottom: 50px;
+}
+.one-dollor{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 56px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: -0.01em;
+    color: #fff;
+    margin-bottom: 28px;
+    padding-top: 30px;
+    margin-left: 30px;
+}
+.subscripe-plan-one{
+    width: 380px;
+    height: 572px;
+    background: #1C64F2;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+.type-business{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    color: #fff;
+    margin-left: 30px;
+    margin-bottom: 11px;
+
+}
+.paragraph-business{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-left: 30px;
 }
 }
