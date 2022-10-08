@@ -394,7 +394,7 @@ h1{
     margin-left: 30px;
 }
 .subscripe-plan-one{
-    width: 380px;
+    max-width: 380px;
     height: 572px;
     background: #1C64F2;
     border-radius: 20px;
