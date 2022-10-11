@@ -355,7 +355,7 @@ h1{
 }
 .subscripe{
     background-color: #10172A;;
-    height: 1907px;
+
 }
 .subscripe-text{
     font-family: 'Lexend';
@@ -399,6 +399,7 @@ h1{
     background: #1C64F2;
     border-radius: 20px;
     margin-left: 5px;
+    margin-bottom: 40px;
 }
 .type-business{
     font-family: 'Lexend';
@@ -461,5 +462,129 @@ h1{
     line-height: 30px;
     letter-spacing: -0.01em;
     color: #FFFFFF;
+}
+.nine{
+    width: 53px;
+    height: 56px;
+    color: #fff;
+    font-size: 45px;
+    font-family: "Lexend";
+    margin-left: 40px;
+    margin-bottom: 22px;
+}
+.nine-ds{
+    width: 60px;
+    height: 23px;
+    font-family: "Lexend";
+    font-size: 18px;
+    color: #fff;
+    margin-left: 40px;
+    margin-bottom: 11px;
+}
+.nine-dsc{
+    width: 310px;
+    height: 58px;
+    font-family: "Inter";
+    color: #fff;
+    opacity: 0.6;
+    font-size: 15px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.button-three{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 16px;
+    width: 310px;
+    height: 41px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    color: #fff;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    margin-left: 40px;
+    margin-bottom: 34px;
+}
+.plan-2{
+    margin-left: 0;
+    margin-left: 40px;
+}
+.plan-22{
+    margin-bottom: 90px;
+}
+.plan-222{
+    padding-bottom: 60px;
+}
+.questes{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 41px;
+    letter-spacing: -0.02em;
+    color: #111928;
+    margin-bottom: 20px;
+}
+.answers{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: -0.01em;
+    color: #111928;
+    margin-bottom: 29px;
+}
+.one-quest{
+    margin-top: 80px;
+}
+.one-answer{
+    margin-bottom: 60px;
+}
+.last-answer{
+    margin-bottom: 137px;
+}
+.last-logo{
+    margin-left: 35%;
+    margin-bottom: 40px;
+}
+.last-links{
+    margin-right: 37px;
+    color: #4B5563;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+.one-last-link{
+margin-left: 40px;
+}
+.twiter{
+    margin-top: 120px;
+    margin-left: 45%;
+    margin-right: 15px;
+    margin-bottom: 19px;
+}
+.git{
+    margin-bottom: 19px;
+}
+.copyright{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B5563;
 }
 }
